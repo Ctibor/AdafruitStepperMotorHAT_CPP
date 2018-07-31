@@ -1,7 +1,7 @@
 #pragma once
 #include <vector>
-#include <wiringPi.h>
-#include <softPwm.h>
+#include <wiringPi/wiringPi.h>
+#include <wiringPi/softPwm.h>
 
 enum Direction {
    FORWARD,

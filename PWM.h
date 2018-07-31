@@ -1,6 +1,6 @@
 #pragma once
 
-#include <wiringPiI2C.h>
+#include <wiringPi/wiringPiI2C.h>
 #include <time.h>
 #include <math.h>
 
